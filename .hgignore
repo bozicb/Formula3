@@ -1,0 +1,11 @@
+syntax: regexp
+target
+\.project
+\.classpath
+\.settings
+.*\.pyc
+.*\.class
+parser.out
+parsetab.py
+\.pydevproject
+\.checkstyle
